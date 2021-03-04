@@ -1,0 +1,1 @@
+..\flips.exe --create ".\ROMS\Rocket Knight Adventures (USA).md" ".\OUTPUT\out.md" ".\OUTPUT\RocketKnightAdventures_MSU-MD_v0.2_Arcade-TV.bps"
